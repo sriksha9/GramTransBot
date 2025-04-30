@@ -1,5 +1,0 @@
-streamlit==1.x.x
-googletrans==4.0.0-rc1
-requests==2.x.x
-indic-transliteration==1.x.x
-openai==0.x.x
