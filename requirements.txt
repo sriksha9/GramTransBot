@@ -1,6 +1,0 @@
-streamlit
-openai
-streamlit-webrtc
-soundfile
-numpy
-av
